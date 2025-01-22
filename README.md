@@ -63,25 +63,24 @@ This is a file database in this topic: **[Database](https://drive.google.com/dri
 
 - Evaluate over week by engaged sessions per user, rate and average engagement time per sessions
 ![v6](https://github.com/user-attachments/assets/27dceaae-aff4-4f06-bf32-daac6363deb8)
-
+- Horizontal bar chart for Event count over a week
 ![v7](https://github.com/user-attachments/assets/63061f0f-6fcf-4a88-9e70-f65a3b58a644)
 
 
-
-
+- Corelation Matrix
 ![v8](https://github.com/user-attachments/assets/ab7c8d2d-56eb-453f-b241-57663c3390b1)
 
-![v9](https://github.com/user-attachments/assets/b7687865-a10e-4843-9a05-f711a738a185)
+- Line and Bar chart of starting a page view
 
 ![v10](https://github.com/user-attachments/assets/5bf31290-bddf-4f9a-b03c-7ac68128435c)
 
-
+- Bar chart of Exploratory Behavior of Event
 
 
 ![v11](https://github.com/user-attachments/assets/9adb27ba-86d6-47c9-bf82-57356ccc5bbb)
 
 
-
+- Chart of Conversion Behavior of Event
 
 ![v12](https://github.com/user-attachments/assets/4b75fa2b-9c50-46f7-84eb-8c364d0cfc46)
 
