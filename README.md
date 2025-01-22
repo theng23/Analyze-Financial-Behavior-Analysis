@@ -84,4 +84,48 @@ This is a file database in this topic: **[Database](https://drive.google.com/dri
 
 ![v12](https://github.com/user-attachments/assets/4b75fa2b-9c50-46f7-84eb-8c364d0cfc46)
 
-
+## V. Insight
+- Question 1:
+    - Google / Organic is the overall most effective source with a large number of traffic, high number of sessions, active users, and high number of events. This source is a top choice for investing in high-quality traffic.
+    - finance.vietstock.vn / referral has the highest conversion rate, indicating that this source is very effective in converting users. However, it has a lower traffic volume than Google / Organic.
+    - baidu / organic and pino.pinex.vn / referral do not perform well in terms of sessions, active users, and conversion rates. Consider reducing investment in these sources if the goal is to optimize conversion efficiency.
+- Question 2:
+    - Traffic Growth (Sessions) and Conversion Rate (Conversion Rate):
+        - Google / Organic has the highest total number of sessions (82,627) and conversion rate (44.0%). This is a good combination of high traffic and high conversion rate, which is suitable for investment if we want both traffic and conversion growth.
+        - bing / organic and coccoc.com / referral have high conversion rate (46.0%) but lower traffic than Google / Organic. They can be good choices if we prioritize higher conversion rate and are willing to accept lower traffic.
+        - chat.zalo.me / referral and oa.zalo.me / referral have very high conversion rate (51.0% and 74.0%) but quite low traffic. This can be a potential source if the main goal is to optimize conversion rate and we do not need a lot of traffic.
+      - Comparison based on conversion rate and number of active users:
+          - Google / Organic not only has the largest traffic volume, but also the highest number of active users (46,634) and high conversion rate (44.0%). This shows that it is a worthy source for both traffic growth and conversion rate.
+          - lm.facebook.com / referral and copilot.microsoft.com / referral have very high conversion rates (67.0% and 67.0%) but very low traffic. They can be options if conversion rate is a top priority, although we need to evaluate further the scalability and traffic potential of these sources.
+- Question 3:
+    - Effectiveness of Traffic Sources
+        - Google / Organic is the most effective traffic source, with high traffic volume, high conversion rate and high number of events. Investing in this source is the top choice for traffic growth while maintaining a high conversion rate.
+        - Google / Organic is the most effective traffic source, with high traffic volume, high conversion rate and high number of events. Investing in this source is the top choice for traffic growth while maintaining a high conversion rate.
+        - baidu / organic and pino.pinex.vn / referral have extremely low traffic volume and are not effective in terms of interaction and conversion. It is necessary to consider reducing investment costs in this source as well as redefining the strategy of operating on the above source.
+    - OnSite Behavior Index Fluctuations
+        -  The number of users and sessions from Week 1 to Week 9 shows a sharp decrease in user interest or activity. This could also be due to a marketing campaign or activity across sources.
+        -  The sharp drop in Week 9 for most metrics (active users, sessions, engaged sessions, event count) could reflect the end of a major campaign or a change in how the platform operates.
+    - Correlation Analysis
+        -  The correlation between active users and sessions. The number of key events shows that an increase in users leads to an increase in sessions and events.
+        -  The strong correlation between key events and interactive sessions shows that interactive events tend to lead to more interactive sessions.
+- Question 4:
+    -  Source/Media Dominance
+        -  Google/Organic is the main source/medium with very high event counts across multiple event types, including Loaded, page_view, and session_start. This suggests that traffic from Google organic search has a major impact on site events.
+        -  page_view and session_start are the most common events, indicating that users frequently visit the site and initiate sessions.
+        -  Loaded also appears frequently, which may indicate that users are interacting with loaded elements on the site
+        -  Differences by Source/Medium*
+        -  Sources such as coccoc.com / referral and bing / organic have lower event counts but still play an important role in attracting users.
+    -  Other Events Group
+        -  Less common events such as video_progress, form_start, form_submit, and events that are not clearly categorized (such as Others) may require further analysis to better understand their role and why they are less common
+## VI. Recommendations
+- Google / Organic is the overall most effective source with a large number of traffic, high number of sessions, active users, and high number of events. This source is a top choice for investing in high-quality traffic.
+- finance.vietstock.vn / referral has the highest conversion rate, indicating that this source is very effective in converting users. However, it has a lower traffic volume than Google / Organic.
+- baidu / organic and pino.pinex.vn / referral do not perform well in terms of sessions, active users, and conversion rates. Consider reducing investment in these sources if the goal is to optimize conversion efficiency.
+- Google / Organic is the best choice because it combines both high traffic and good conversion rates. Investing in this source can help us achieve our goal of increasing traffic while maintaining high conversion rates.
+- If we are looking for additional sources to optimize conversion rates without too much traffic, sources such as chat.zalo.me / referral, oa.zalo.me / referral, and finance.vietstock.vn / referral can be potential options.
+- Increase engagement: Look at low-return events and find ways to improve them. For example, optimizing buttons or forms can help increase form_start and form_sumbit rates
+- Examine specific factors that influence high-return and low-return events to better understand user behavior
+- SEO and SEM Optimization: Improve SEO strategies for Google Organic and optimize SEM campaigns to improve results from Google CPC.
+- Create Compelling Content and CTAs: Enhance content and CTA elements to encourage more actions from users.
+- Referral Strategy Testing: Evaluate and optimize other referral sources to increase effectiveness from less popular sources.
+- Continuous Monitoring and Evaluation: Continuously monitor the effectiveness of campaigns and events to adjust strategies in time.
