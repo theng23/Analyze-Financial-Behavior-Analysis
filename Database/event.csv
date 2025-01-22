@@ -1,0 +1,23 @@
+﻿Event name,Event count,Sessions
+Grand total,694110,145794
+session_start,154138,149766
+page_view,179584,128778
+Loaded,163341,121724
+first_visit,88575,88619
+user_engagement,93014,66385
+scroll,24574,17326
+click,11500,5695
+file_download,2969,1864
+Click,2316,1445
+Click Mở tài khoản trang alpha,1322,1079
+video_start,944,792
+form_start,865,584
+view_search_results,878,518
+video_progress,1067,464
+form_submit,699,456
+GA4 event - Click Tải app Android - Tran,964,368
+StartChat,364,356
+Click Tải app Ios - trang alpha,644,304
+SendMessage,951,282
+video_complete,83,77
+timing_complete,23,18
