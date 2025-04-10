@@ -1,4 +1,4 @@
-# Discover-User-Behavior-From-Traffic-Channels - Financial and Stock company| Python, GoogleColab
+# Analyze Financial Behavior Analysis| Python, GoogleColab
 ## I. Introduction
 - This topic aims to analyze and evaluate user behavioral indicators from many different sources on the website of Pinetree, a company in the finance and securities industry.
 - Below is a summary of this topic. The full topic can be viewed here: [AnalyzeBehaviorofUser](https://colab.research.google.com/drive/1hoBLNEbMmeCC7Bn7T6aY1MfhFxybfR7z?usp=sharing)
